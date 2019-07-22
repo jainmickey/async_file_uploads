@@ -1,0 +1,2 @@
+aiohttp==3.5.4
+django-uuid-upload-path==1.0.0
